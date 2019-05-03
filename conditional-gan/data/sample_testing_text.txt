@@ -1,0 +1,4 @@
+1,Bug type1 Flying type2
+2,Bug type1 Poison type2
+3,Water type1 Electric type2
+4,Normal type1 Fairy type2
